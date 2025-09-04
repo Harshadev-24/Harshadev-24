@@ -1,66 +1,57 @@
-# Hi there, I'm Harshavardhan 👋
+# 👋 Hi, I’m Harshavardhan
 
-**Aspiring Site Reliability Engineer & DevOps Enthusiast** | **Java | Python | Linux | Docker | Terraform**
+**Aspiring Site Reliability Engineer & DevOps Enthusiast**  
+_B.Tech in Computer Science | Linux, AWS, Docker, Terraform | Java & Python_
 
-Welcome to my GitHub profile! I’m a recent B.Tech graduate in Computer Science, passionate about building scalable, reliable, and automated cloud infrastructure.
-
----
-
-## 🚀 Career Goals
-I am aiming to start my career as a **Site Reliability Engineer (SRE)** or **DevOps Engineer**, focusing on:
-- Cloud infrastructure automation & IaC (Terraform, AWS)
-- Containerization & orchestration (Docker, Kubernetes)
-- Linux system administration & scripting
-- CI/CD pipelines and reliability engineering
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-847296257) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsha2003hvd@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshadev-24)
 
 ---
 
-## 💻 Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Programming & CS Fundamentals** | Data Structures, Algorithms, OOP, Computer Networking, Operating Systems, DBMS |
-| **Languages** | Java, Python, Bash, SQL (MySQL) |
-| **Operating Systems & Admin** | Linux (RHEL/CentOS), Sysadmin |
-| **Technologies** | Git, Docker, AWS, Terraform |
+## 🚀 About Me
+I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, automation, and reliability engineering**.  
+I am focused on building scalable and automated systems as a **Site Reliability Engineer (SRE)** or **DevOps Engineer**.
 
 ---
 
-## 🛠 Projects
+## 🛠️ Skills
 
-### [AWS Beginners Challenge](https://github.com/Harshadev-24) | Nextwork Learning Platform
-- Deployed and hosted a static website on **AWS S3** with IAM-based access control
-- Provisioned and configured a Linux-based **EC2 instance**
-- Configured **AWS IAM roles and policies**, ensuring secure access
-
-### [AWS Development Environment Automation](https://github.com/Harshadev-24) | FreeCodeCamp
-- Automated provisioning of AWS networking components (**VPC, subnets, IGW, security groups**)
-- Deployed an **EC2 instance** configured with user data scripts for remote dev access
-- Automated AWS infrastructure using **Terraform (IaC)**, reducing manual setup time by 90%
+| 💻 Programming & CS | 🖥️ OS & Admin | 🌐 Cloud & DevOps |
+|--------------------|---------------|----------------|
+| Java, Python, Bash, SQL | Linux (RHEL/CentOS), Sysadmin | AWS, Terraform, Docker, Git |
+| Data Structures, Algorithms, OOP, Networking, OS, DBMS | Shell Scripting, Automation | CI/CD, Infrastructure as Code, Cloud Security |
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 - **Red Hat Certified System Administrator (RHCSA)**  
-  [![RHCSA Badge](https://via.placeholder.com/100x100.png?text=RHCSA)](https://www.credly.com/badges/94942fe5-c192-4435-83fb-c5e552d6f463/public_url)
+  [View Credential](https://www.credly.com/badges/94942fe5-c192-4435-83fb-c5e552d6f463/public_url)
+
+---
+
+## 📂 Projects
+
+### [AWS Beginners Challenge](https://github.com/Harshadev-24)
+- Technologies: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- Deployed & hosted a **static website on AWS S3** with IAM-based access control
+- Provisioned & configured a **Linux EC2 instance**
+- Configured **AWS IAM roles and policies** for secure access
+
+### [AWS Dev Environment Automation](https://github.com/Harshadev-24)
+- Technologies: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- Automated provisioning of AWS networking (**VPC, subnets, IGW, security groups**)
+- Deployed **EC2 instance with user-data scripts** for remote dev access
+- Automated AWS infra using **Terraform (IaC)**, cutting manual setup by 90%
 
 ---
 
 ## 📊 GitHub Stats
 ![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshadev-24&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadev-24&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/harsha-vardhan-847296257)  
-- Email: harsha2003hvd@gmail.com  
-
----
-
-## 🎮 Personal Interests
-When I'm not coding or working on cloud projects, I enjoy **watching anime and web-series**.  
-
----
-
+## 🎮 Hobbies & Interests
+- Watching **anime & web-series**  
+- Exploring **cloud technologies & automation**
