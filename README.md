@@ -10,8 +10,7 @@ _B.Tech in Computer Science | Linux, AWS, Docker, Terraform | Java & Python_
 ---
 
 ## 🚀 About Me
-I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, automation, and reliability engineering**.  
-I am focused on building scalable and automated systems as a **Site Reliability Engineer (SRE)** or **DevOps Engineer**.
+I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, automation, and reliability engineering**.
 
 ---
 
