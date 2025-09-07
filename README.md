@@ -16,10 +16,45 @@ I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, aut
 
 ## 🛠️ Skills
 
-| 💻 Programming & CS | 🖥️ OS & Admin | 🌐 Cloud & DevOps |
-|--------------------|---------------|----------------|
-| Java, Python, Bash, SQL | Linux (RHEL/CentOS), Sysadmin | AWS, Terraform, Docker, Git |
-| Data Structures, Algorithms, OOP, Networking, OS, DBMS | Shell Scripting, Automation | CI/CD, Infrastructure as Code, Cloud Security |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">📘 CS Fundamentals:</h3>
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-orange)
+![Networking](https://img.shields.io/badge/Networking-green)
+![OS](https://img.shields.io/badge/Operating%20Systems-red)
+![DBMS](https://img.shields.io/badge/DBMS-purple)
+
 
 ---
 
