@@ -82,7 +82,7 @@ I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, aut
 
 ## LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com//)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Harshadev_24/)
 
 
 ---
@@ -97,3 +97,4 @@ I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, aut
 ## 🎮 Hobbies & Interests
 - Watching **anime & web-series**  
 - Exploring **cloud technologies & automation**
+- Reading **Manga & Manhwa**
