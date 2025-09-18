@@ -89,7 +89,6 @@ I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, aut
 
 
 ## 📊 GitHub Stats
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshadev-24&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadev-24&layout=compact&theme=radical)
 
 ---
