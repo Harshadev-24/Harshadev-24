@@ -62,6 +62,9 @@ I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, aut
 - **Red Hat Certified System Administrator (RHCSA)**  
   [View Credential](https://www.credly.com/badges/94942fe5-c192-4435-83fb-c5e552d6f463/public_url)
 
+- **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
+  [View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF03179B093BC4B2D378B4B899A075D2E2D09C7F89D9E48DD90BE3D057D29844)
+  
 ---
 
 ## 📂 Projects
