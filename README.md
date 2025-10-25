@@ -10,7 +10,7 @@ _B.Tech in Computer Science | Linux, AWS, Docker, Terraform | Java & Python_
 ---
 
 ## 🚀 About Me
-I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, automation, AI Engineer, ML Engineer, and reliability engineering**.
+I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, automation, AI Engineering, ML Engineering, and reliability engineering**.
 
 ---
 
