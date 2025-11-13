@@ -67,22 +67,6 @@ I am a **recent B.Tech graduate** with a passion for **cloud infrastructure, aut
   
 ---
 
-## 📂 Projects
-
-### [AWS Beginners Challenge](https://github.com/Harshadev-24)
-- Technologies: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- Deployed & hosted a **static website on AWS S3** with IAM-based access control
-- Provisioned & configured a **Linux EC2 instance**
-- Configured **AWS IAM roles and policies** for secure access
-
-### [AWS Dev Environment Automation](https://github.com/Harshadev-24)
-- Technologies: ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- Automated provisioning of AWS networking (**VPC, subnets, IGW, security groups**)
-- Deployed **EC2 instance with user-data scripts** for remote dev access
-- Automated AWS infra using **Terraform (IaC)**, cutting manual setup by 90%
-
----
-
 ## LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Harshadev_24/)
