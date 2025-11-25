@@ -20,8 +20,8 @@
 - **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
   [View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF03179B093BC4B2D378B4B899A075D2E2D09C7F89D9E48DD90BE3D057D29844)
 
--**Machine Learning with Python by IBM**
- [View Certificate](https://drive.google.com/file/d/18lTEPU_iUdfYI7M92bCemjau9ScZN0_B/view?usp=sharing)
+- **Machine Learning with Python by IBM**
+  [View Certificate](https://drive.google.com/file/d/18lTEPU_iUdfYI7M92bCemjau9ScZN0_B/view?usp=sharing)
   
 ---
 
