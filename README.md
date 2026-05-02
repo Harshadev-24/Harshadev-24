@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Gen AI Projects**
 
-- 💬 Ask me about **Machine Learning, MLOps, Python, Data Engineering, and Open Source**
+- 💬 Ask me about **Machine Learning, MLOps, Python, SRE, and Open Source**
 
 - 📫 How to reach me **harsha2003hvd@gmail.com**
 
