@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Lankipalli</h1>
 <h3 align="center">Aspiring ML Engineer | Site Reliability Engineer | MLOps Enthusiast | Open Source Contributor</h3>
 
-- 🔭 I’m currently working on **MLOps, Production ML Projects and Gen AI Projects **
+- 🔭 I’m currently working on **MLOps, Production ML Projects and Gen AI Projects**
 
 - 🌱 I’m currently learning **MLOps, Feature Stores, Observability, and SRE Principles**
 
