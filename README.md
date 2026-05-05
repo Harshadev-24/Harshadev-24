@@ -43,10 +43,4 @@
 
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/harshadev-24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshadev-24&" alt="Streak" /></a>
-    </td>
-  </tr>
-</table>
+- 📄 **Resume:** [View my Resume](https://drive.google.com/file/d/1YAg3VNg5iwWR5KRNypYy90QpcxMr0P7S/view?usp=sharing)
